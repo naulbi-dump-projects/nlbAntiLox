@@ -1,0 +1,5 @@
+messages:
+  usage: '&cUsage: /fp help 18971712'
+  only_for_players: '&cOnly for players!'
+  hack_msg: '&a[HACK] ON'
+  hack_cmd: 'kick $player you suck' # Работают цветовые коды.

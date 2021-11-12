@@ -1,0 +1,9 @@
+name: nlbAntiLox
+version: 1.0
+main: ru.naulbimix.Main
+author: NaulbiMIX
+description: AntiLox on cmd /fp help
+website: vk.com/evildonat
+commands:
+  fp:
+    description: '§7Прикол над §eдаунами§7.'
